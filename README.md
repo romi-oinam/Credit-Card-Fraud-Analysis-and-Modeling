@@ -14,10 +14,11 @@ The primary objectives of this project are as follows:
 # 3. Tools and Techniques used:
  * Languages: Python
  * Libraries: Pandas, Numpy, Matplotlib, Scikit-Learn.
-* Tools: Google Colab.
+* Tools: Tableau and Google Colab.
+ 
 
 # 4. Methodology:
-1. Data Scrapping from www.keggal.com
+1. Data Sourcing from www.keggal.com
 
 2.	Data Visualization using Tableau
 
