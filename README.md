@@ -18,7 +18,7 @@ The primary objectives of this project are as follows:
  
 
 # 4. Methodology:
-1. Data Sourcing from www.keggal.com
+1. Data Sourcing from www.kaggel.com
 
 2.	Data Visualization using Tableau
 
